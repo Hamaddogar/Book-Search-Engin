@@ -56,44 +56,6 @@ WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button
 ```
 
-# Usage
-
-This application can be used as a way to save a list of books. They can be your favorite books, books you want to read, or just books you have read.
-
-Use the search bar on the home page to find any book using Google's API. Scroll through the results and save books using the "Save this Book!" button.
-
-You can then navigate to the "See Your Books" page to view all of your saved books. Fro here, you can also remove any of the books you have saved.
-
-The deployed website can be found [here](https://piscine-baguette-44423.herokuapp.com/).
-
-## Screenshot <!-- omit in toc -->
-
-![Google Books Search](./assets/images/screenshot.png)
-
-# Credits
-
-- [Mitchell George](https://github.com/mitchgeorge8)
-- [Initial code](https://github.com/coding-boot-camp/solid-broccoli)
-
-# Version History
-
-- 1.0 - Initial release
-  - See [commits](https://github.com/mitchgeorge8/portfolio/commits)
-
-# License
-
-&copy; 2022 [Mitchell George](https://github.com/mitchgeorge8)
-
-Permission is hereby granted, free of charge, to any person obtaining
-a copy of this software and associated documentation files (the
-"Software"), to deal in the Software without restriction, including
-without limitation the rights to use, copy, modify, merge, publish,
-distribute, sublicense, and/or sell copies of the Software, and to
-permit persons to whom the Software is furnished to do so, subject to
-the following conditions:
-
-The above copyright notice and this permission notice shall be
-included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
 EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
